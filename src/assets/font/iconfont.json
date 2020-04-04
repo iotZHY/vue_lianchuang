@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13725224",
+      "name": "ConcealOutline",
+      "font_class": "ConcealOutline",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "13725319",
+      "name": "PersonalOutline",
+      "font_class": "PersonalOutline",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    }
+  ]
+}
