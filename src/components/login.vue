@@ -41,7 +41,8 @@ export default {
     return {
       loginForm: {
         userName: 'iot-zhy',
-        password: '123456'
+        password: '123456',
+        type: 0
       },
       loginFromRules: {
         userName: [
